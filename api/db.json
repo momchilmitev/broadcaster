@@ -10,12 +10,6 @@
       "description": "testing the programmatic navigation with patch request",
       "userId": "100346310920277638052",
       "id": 2
-    },
-    {
-      "title": "refactoring test",
-      "description": "refactoring test description",
-      "userId": "100346310920277638052",
-      "id": 3
     }
   ]
 }
